@@ -9,5 +9,10 @@ The TNAPR contains the Application type and the Business Object type, so it can 
 
 This framework is all generic for calling the Business Object class.
 
+# Prerequisites
+- https://github.com/alwinvandeput/zbo_generic_business_object
+
+# Example
 For fully working example also install package zsd_sales_and_distribution.
+
 https://github.com/alwinvandeput/zsd_sales_and_distribution
